@@ -1,0 +1,7 @@
+C:\Users\Екатерина\C#\Lesson 2\HWLesson1\HWLesson1_13\bin\Debug\HWLesson1_13.exe.config
+C:\Users\Екатерина\C#\Lesson 2\HWLesson1\HWLesson1_13\bin\Debug\HWLesson1_13.exe
+C:\Users\Екатерина\C#\Lesson 2\HWLesson1\HWLesson1_13\bin\Debug\HWLesson1_13.pdb
+C:\Users\Екатерина\C#\Lesson 2\HWLesson1\HWLesson1_13\obj\Debug\HWLesson1_13.csprojAssemblyReference.cache
+C:\Users\Екатерина\C#\Lesson 2\HWLesson1\HWLesson1_13\obj\Debug\HWLesson1_13.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\C#\Lesson 2\HWLesson1\HWLesson1_13\obj\Debug\HWLesson1_13.exe
+C:\Users\Екатерина\C#\Lesson 2\HWLesson1\HWLesson1_13\obj\Debug\HWLesson1_13.pdb

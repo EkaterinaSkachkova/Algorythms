@@ -1,0 +1,13 @@
+C:\Users\Екатерина\C#\Lesson 2\HWLesson1\HWLesson1_14\bin\Debug\HWLesson1_14.exe.config
+C:\Users\Екатерина\C#\Lesson 2\HWLesson1\HWLesson1_14\bin\Debug\HWLesson1_14.exe
+C:\Users\Екатерина\C#\Lesson 2\HWLesson1\HWLesson1_14\bin\Debug\HWLesson1_14.pdb
+C:\Users\Екатерина\C#\Lesson 2\HWLesson1\HWLesson1_14\obj\Debug\HWLesson1_14.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\C#\Lesson 2\HWLesson1\HWLesson1_14\obj\Debug\HWLesson1_14.exe
+C:\Users\Екатерина\C#\Lesson 2\HWLesson1\HWLesson1_14\obj\Debug\HWLesson1_14.pdb
+C:\Users\Екатерина\C#\Lesson 2_algorithm\HWLesson1\HWLesson1_14\bin\Debug\HWLesson1_14.exe.config
+C:\Users\Екатерина\C#\Lesson 2_algorithm\HWLesson1\HWLesson1_14\bin\Debug\HWLesson1_14.exe
+C:\Users\Екатерина\C#\Lesson 2_algorithm\HWLesson1\HWLesson1_14\bin\Debug\HWLesson1_14.pdb
+C:\Users\Екатерина\C#\Lesson 2_algorithm\HWLesson1\HWLesson1_14\obj\Debug\HWLesson1_14.csprojAssemblyReference.cache
+C:\Users\Екатерина\C#\Lesson 2_algorithm\HWLesson1\HWLesson1_14\obj\Debug\HWLesson1_14.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина\C#\Lesson 2_algorithm\HWLesson1\HWLesson1_14\obj\Debug\HWLesson1_14.exe
+C:\Users\Екатерина\C#\Lesson 2_algorithm\HWLesson1\HWLesson1_14\obj\Debug\HWLesson1_14.pdb
