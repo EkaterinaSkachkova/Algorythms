@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWLesson2", "HWLesson2\HWLesson2.csproj", "{D3C12093-A1B3-4F59-ACC0-007FA04D3AAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWLesson2_1", "HWLesson2_1\HWLesson2_1.csproj", "{CE84D0FE-AF66-45CD-B82C-4819D5025952}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3C12093-A1B3-4F59-ACC0-007FA04D3AAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3C12093-A1B3-4F59-ACC0-007FA04D3AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3C12093-A1B3-4F59-ACC0-007FA04D3AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3C12093-A1B3-4F59-ACC0-007FA04D3AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE84D0FE-AF66-45CD-B82C-4819D5025952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE84D0FE-AF66-45CD-B82C-4819D5025952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE84D0FE-AF66-45CD-B82C-4819D5025952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE84D0FE-AF66-45CD-B82C-4819D5025952}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24C689AC-CB77-4CEA-A8F5-05D3B69E6FB8}
+	EndGlobalSection
+EndGlobal
