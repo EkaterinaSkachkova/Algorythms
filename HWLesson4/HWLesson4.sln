@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWLesson4", "HWLesson4\HWLesson4.csproj", "{B633171B-86FA-4308-AA52-FF4B6823515A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWLesson4_1", "HWLesson4_1\HWLesson4_1.csproj", "{DDDCB5B6-618D-46F2-8B40-C0D3ABE5C17E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B633171B-86FA-4308-AA52-FF4B6823515A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B633171B-86FA-4308-AA52-FF4B6823515A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B633171B-86FA-4308-AA52-FF4B6823515A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B633171B-86FA-4308-AA52-FF4B6823515A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDDCB5B6-618D-46F2-8B40-C0D3ABE5C17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDDCB5B6-618D-46F2-8B40-C0D3ABE5C17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDDCB5B6-618D-46F2-8B40-C0D3ABE5C17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDDCB5B6-618D-46F2-8B40-C0D3ABE5C17E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBC70ED3-3DF7-45A5-ACD8-19CCA6ECB4A8}
+	EndGlobalSection
+EndGlobal
